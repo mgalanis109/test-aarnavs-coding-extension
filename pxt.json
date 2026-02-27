@@ -1,0 +1,25 @@
+{
+    "name": "test Aarnav's Coding Extension",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*",
+        "Aarnav's Coding Extension": "github:mgalanis109/aarnavs-coding-extension#v0.0.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.1.27",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
